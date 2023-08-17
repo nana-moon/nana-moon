@@ -1,6 +1,6 @@
 <div align="center">
  
- ## HELLO, I'M YEOGYEONG MOON👋
+ ## Hello, I'm YEOGYEONG MOON👋
 
  <!--
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeokyung502)](https://solved.ac/yeokyung502/)
