@@ -1,9 +1,19 @@
 <div align="center">
  
  ## MOON YEOGYEONG👋
+
+ <!--
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeokyung502)](https://solved.ac/yeokyung502/)
+ -->
+<div align="left" style="width:50%;">
+   
  ![moon profile](http://mazandi.herokuapp.com/api?handle=yeokyung502&theme=warm)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nana-moon&layout=compact)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nana-moon&layout=compact)
+- 🎓 I have studied at SSAFY 8th learning course.
+- ✏️ I'm studying to be a Back-end developer.
+- 😋 I'm interested in reliable data management and efficient server construction.
+  
+</div>
  
  ## 💪Skills
  ### Platforms & Languages
@@ -32,7 +42,7 @@
  ![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
  
   
- ### :mailbox_with_mail: Contacts
+ ## :mailbox_with_mail: Contacts
  [![Tech Blog Badge](http://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@nana-moon)](https://velog.io/@nana-moon)
  [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:logbymoon@naver.com)](mailto:rlatngus1691@naver.com)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeokyung502@gmail.com)](mailto:kimsh1691@gmail.com)
