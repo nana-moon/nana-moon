@@ -8,9 +8,10 @@
 <div align="left" style="width:50%;">
    
  ![moon profile](http://mazandi.herokuapp.com/api?handle=yeokyung502&theme=warm)
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nana-moon&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nana-moon&layout=compact)
+- 📺 I majored in Media Communication at Hankuk University of Foreign Studies.
 - 🎓 I have studied at SSAFY 8th course.
-- ✏️ I'm studying to be a Back-end developer.
+- ✏️ I'm studying to be a Back-End developer.
 - 😋 I'm interested in reliable data management and efficient server construction.
   
 </div>
