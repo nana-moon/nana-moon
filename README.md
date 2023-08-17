@@ -9,7 +9,7 @@
    
  ![moon profile](http://mazandi.herokuapp.com/api?handle=yeokyung502&theme=warm)
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nana-moon&layout=compact)
-- 🎓 I have studied at SSAFY 8th learning course.
+- 🎓 I have studied at SSAFY 8th course.
 - ✏️ I'm studying to be a Back-end developer.
 - 😋 I'm interested in reliable data management and efficient server construction.
   
