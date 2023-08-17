@@ -1,9 +1,9 @@
-### MOON YEOGYEONG👋
+## MOON YEOGYEONG👋
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeokyung502)](https://solved.ac/yeokyung502/)
 ![moon profile](http://mazandi.herokuapp.com/api?handle=yeokyung502&theme=warm)
-### 💪Skills
-#### Platforms & Languages
+## 💪Skills
+### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -23,7 +23,7 @@
 ![nginx](https://img.shields.io/badge/nginx-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)
 ![jenkins](https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white)
 
-#### Tools
+### Tools
 ![gitlab](https://img.shields.io/badge/gitlab-FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
 ![jira](https://img.shields.io/badge/jira-0052CC.svg?&style=for-the-badge&logo=jira%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
