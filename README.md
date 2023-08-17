@@ -2,6 +2,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeokyung502)](https://solved.ac/yeokyung502/)
 ![moon profile](http://mazandi.herokuapp.com/api?handle=yeokyung502&theme=warm)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nana-moon&layout=compact)
 ## 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -16,7 +17,6 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white)
 ![apachekafka](https://img.shields.io/badge/apachekafka-231F20.svg?&style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
 ![AmazonEC2](https://img.shields.io/badge/AmazonEC2-FF9900.svg?&style=for-the-badge&logo=AmazonEC2&logoColor=white)
 ![AmazonS3](https://img.shields.io/badge/AmazonS3-569A31.svg?&style=for-the-badge&logo=AmazonS3&logoColor=white)
