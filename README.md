@@ -5,7 +5,7 @@
 <div align="left" style="width:50%;">
 
 
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeokyung502)](https://solved.ac/yeokyung502/)
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeokyung502)](https://solved.ac/profile/yeokyung502/)
  ![moon profile](http://mazandi.herokuapp.com/api?handle=yeokyung502&theme=warm)
  <!--
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nana-moon&layout=compact)
