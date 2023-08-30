@@ -53,6 +53,7 @@
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeokyung502@gmail.com)](mailto:kimsh1691@gmail.com)
 </div>
 <!--
+AWS, Spring Security, Scheduler, Hadoop, Spark, zeppline, zookeeper 추가
 **nana-moon/nana-moon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
