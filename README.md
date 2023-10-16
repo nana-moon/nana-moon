@@ -10,7 +10,7 @@
  <!--
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nana-moon&layout=compact)
  -->
-<!-- 📺 I majored in Media Communication at Hankuk University of Foreign Studies. -->
+📺 I majored in Media Communication at Hankuk University of Foreign Studies.
 - 🎓 I learned software development in SSAFY 8th course.
 - ✏️ I'm studying to be a Back-End developer.
 - 😋 I'm interested in reliable data management and efficient server construction.
